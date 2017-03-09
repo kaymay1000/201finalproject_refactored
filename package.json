@@ -1,0 +1,22 @@
+{
+  "name": "201finalproject_refactored",
+  "version": "1.0.0",
+  "description": "My refactored version of Code 201 final group project",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaymay1000/201finalproject_refactored.git"
+  },
+  "author": "Kaylee Alvarado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaymay1000/201finalproject_refactored/issues"
+  },
+  "homepage": "https://github.com/kaymay1000/201finalproject_refactored#readme"
+}
